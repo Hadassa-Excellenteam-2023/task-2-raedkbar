@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/raedb/Documents/GitHub/task-2-raedkbar/include
+# Install script for directory: C:/Users/brr/Documents/GitHub/task-2-raedkbar/include
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

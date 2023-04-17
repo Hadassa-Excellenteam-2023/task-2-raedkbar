@@ -1,7 +1,7 @@
-C:/Users/raedb/Documents/GitHub/task-2-raedkbar/cmake-build-debug/CMakeFiles/Chess.dir
-C:/Users/raedb/Documents/GitHub/task-2-raedkbar/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/raedb/Documents/GitHub/task-2-raedkbar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/raedb/Documents/GitHub/task-2-raedkbar/cmake-build-debug/include/CMakeFiles/edit_cache.dir
-C:/Users/raedb/Documents/GitHub/task-2-raedkbar/cmake-build-debug/include/CMakeFiles/rebuild_cache.dir
-C:/Users/raedb/Documents/GitHub/task-2-raedkbar/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-C:/Users/raedb/Documents/GitHub/task-2-raedkbar/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/CMakeFiles/Chess.dir
+C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/include/CMakeFiles/edit_cache.dir
+C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/include/CMakeFiles/rebuild_cache.dir
+C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

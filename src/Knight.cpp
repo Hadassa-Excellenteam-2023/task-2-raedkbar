@@ -2,6 +2,13 @@
 
 #include "Knight.h"
 
+/**
+ * Check if the move is valid for the Knight piece.
+ *
+ * @param moveCoords The start and end coordinates of the move.
+ * @param chessMatrix The matrix representing the chessboard.
+ * @return True if the move is valid for the Knight, false otherwise.
+ */
 const bool Knight::isValidMove(const std::pair<std::pair<int, int>, std::pair<int, int>>& moveCoords, const std::vector<std::vector<std::unique_ptr<Piece>>>& chessMatrix) {
     int startRow = moveCoords.first.first;
     int startCol = moveCoords.first.second;

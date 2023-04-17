@@ -2,6 +2,13 @@
 
 #include "Bishop.h"
 
+/**
+ * Checks if the move is valid for a Bishop piece.
+ *  
+ * @param moveCoords A pair of pairs of integers representing the start and end coordinates of the move.
+ * @param chessMatrix A 2D vector of unique_ptr to Piece representing the current state of the chess board.
+ * @return true if the move is valid for the Bishop piece, false otherwise.
+ */
 const bool Bishop::isValidMove(const std::pair<std::pair<int, int>, std::pair<int, int>>& moveCoords, const std::vector<std::vector<std::unique_ptr<Piece>>>& chessMatrix)
 {
     int startRow = moveCoords.first.first;
