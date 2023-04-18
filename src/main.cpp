@@ -8,7 +8,7 @@ int main()
 //	string board = "##########K###############################R#############r#r#####";
 	Chess a(board);
 	auto& b = Board::getInstance();
-	b.fillBoard("RNBQKBNRPPPPPPPP################################pppppppprnbqkbnr");
+	b.fillBoard(board);
 	int codeResponse = 0;
 	string res = a.getInput();
     while (res != "exit")

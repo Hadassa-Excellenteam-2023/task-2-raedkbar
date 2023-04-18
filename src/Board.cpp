@@ -21,6 +21,7 @@ Board& Board::getInstance() {
  *         12: The player is trying to move a piece that is not theirs.
  *         13: The player is trying to capture their own piece.
  *         21: The move is not valid for the piece.
+ *         31: The move causes the current player to check.
  *         41: The move results in the current player being in check.
  *         42: The move is successful and the turn is switched.
  */
@@ -47,11 +48,14 @@ int Board::move(const std::string& moveString) {
         return 21;
     }
 
+    if (isCheck(m_currentPlayer)) {
+        m_chessMatrix[startPos.first][startPos.second] = std::move(m_chessMatrix[endPos.first][endPos.second]);
+        return 31;
+    }
+
     makeMove(moveCoords);
 
-    auto check = isCheck(m_currentPlayer);
-
-    if (check) {
+    if (isCheck(m_currentPlayer)) {
         return 41;
     }
 
