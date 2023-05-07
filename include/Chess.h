@@ -1,4 +1,6 @@
-#pragma once
+#ifndef CHESS_H
+#define CHESS_H
+
 #include <iostream>
 #include <Windows.h>
 #include <string>
@@ -38,3 +40,5 @@ public:
 	string getInput();
 	void setCodeResponse(int codeResponse);
 };
+
+#endif // CHESS_H
