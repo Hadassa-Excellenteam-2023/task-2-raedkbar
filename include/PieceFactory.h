@@ -1,14 +1,22 @@
-#include <memory>
-#include <unordered_map>
-#include <functional>
+// PieceFactory.h
+#ifndef PIECEFACTORY_H
+#define PIECEFACTORY_H
 
-#include "Piece.h"
-#include "Rook.h"
-#include "Knight.h"
-#include "Bishop.h"
-#include "Queen.h"
-#include "King.h"
-#include "Pawn.h"
+#include <memory>
+#include <map>
+#include <vector>
+#include <functional>
+#include <optional>
+
+#include "pieces_headers/Piece.h"
+#include "pieces_headers/Rook.h"
+#include "pieces_headers/Knight.h"
+#include "pieces_headers/Bishop.h"
+#include "pieces_headers/Queen.h"
+#include "pieces_headers/King.h"
+#include "pieces_headers/Pawn.h"
+
+
 
 class PieceFactory {
 public:
@@ -17,12 +25,15 @@ public:
         return instance;
     }
 
-    std::unique_ptr<Piece> createPiece(char);
-    std::unique_ptr<Piece> registerPiece(char, std::vector<std::vector<std::unique_ptr<Piece>>>&, int, int);
+    std::unique_ptr<Piece> createPiece(char pieceType);
+
+    void registerCreator(char pieceType, std::function<std::unique_ptr<Piece>()> creator);
+    std::optional<std::unique_ptr<Piece>> registerPiece(char);
+
 private:
     PieceFactory();
 
-    std::unordered_map<char, std::function<std::unique_ptr<Piece>()>> creators;
-
-    void addCreator(char, std::function<std::unique_ptr<Piece>()>);
+    std::map<char, std::function<std::unique_ptr<Piece>()>> creators;
 };
+
+#endif // PIECEFACTORY_H

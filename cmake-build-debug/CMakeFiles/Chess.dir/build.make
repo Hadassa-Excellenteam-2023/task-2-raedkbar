@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\brr\Documents\GitHub\task-2-raedkbar
+CMAKE_SOURCE_DIR = C:\Users\brr\Desktop\task-2-raedkbar
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Chess.dir/depend.make
@@ -70,168 +70,168 @@ include CMakeFiles/Chess.dir/flags.make
 
 CMakeFiles/Chess.dir/src/main.cpp.obj: CMakeFiles/Chess.dir/flags.make
 CMakeFiles/Chess.dir/src/main.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/main.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/main.cpp
+CMakeFiles/Chess.dir/src/main.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/main.cpp
 CMakeFiles/Chess.dir/src/main.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chess.dir/src/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/main.cpp.obj -MF CMakeFiles\Chess.dir\src\main.cpp.obj.d -o CMakeFiles\Chess.dir\src\main.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chess.dir/src/main.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/main.cpp.obj -MF CMakeFiles\Chess.dir\src\main.cpp.obj.d -o CMakeFiles\Chess.dir\src\main.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\main.cpp
 
 CMakeFiles/Chess.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\main.cpp > CMakeFiles\Chess.dir\src\main.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\main.cpp > CMakeFiles\Chess.dir\src\main.cpp.i
 
 CMakeFiles/Chess.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\main.cpp -o CMakeFiles\Chess.dir\src\main.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\main.cpp -o CMakeFiles\Chess.dir\src\main.cpp.s
 
 CMakeFiles/Chess.dir/src/Chess.cpp.obj: CMakeFiles/Chess.dir/flags.make
 CMakeFiles/Chess.dir/src/Chess.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/Chess.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Chess.cpp
+CMakeFiles/Chess.dir/src/Chess.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/Chess.cpp
 CMakeFiles/Chess.dir/src/Chess.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chess.dir/src/Chess.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Chess.cpp.obj -MF CMakeFiles\Chess.dir\src\Chess.cpp.obj.d -o CMakeFiles\Chess.dir\src\Chess.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Chess.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chess.dir/src/Chess.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Chess.cpp.obj -MF CMakeFiles\Chess.dir\src\Chess.cpp.obj.d -o CMakeFiles\Chess.dir\src\Chess.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\Chess.cpp
 
 CMakeFiles/Chess.dir/src/Chess.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/Chess.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Chess.cpp > CMakeFiles\Chess.dir\src\Chess.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\Chess.cpp > CMakeFiles\Chess.dir\src\Chess.cpp.i
 
 CMakeFiles/Chess.dir/src/Chess.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/Chess.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Chess.cpp -o CMakeFiles\Chess.dir\src\Chess.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\Chess.cpp -o CMakeFiles\Chess.dir\src\Chess.cpp.s
 
 CMakeFiles/Chess.dir/src/Board.cpp.obj: CMakeFiles/Chess.dir/flags.make
 CMakeFiles/Chess.dir/src/Board.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/Board.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Board.cpp
+CMakeFiles/Chess.dir/src/Board.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/Board.cpp
 CMakeFiles/Chess.dir/src/Board.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chess.dir/src/Board.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Board.cpp.obj -MF CMakeFiles\Chess.dir\src\Board.cpp.obj.d -o CMakeFiles\Chess.dir\src\Board.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Board.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chess.dir/src/Board.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Board.cpp.obj -MF CMakeFiles\Chess.dir\src\Board.cpp.obj.d -o CMakeFiles\Chess.dir\src\Board.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\Board.cpp
 
 CMakeFiles/Chess.dir/src/Board.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/Board.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Board.cpp > CMakeFiles\Chess.dir\src\Board.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\Board.cpp > CMakeFiles\Chess.dir\src\Board.cpp.i
 
 CMakeFiles/Chess.dir/src/Board.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/Board.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Board.cpp -o CMakeFiles\Chess.dir\src\Board.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\Board.cpp -o CMakeFiles\Chess.dir\src\Board.cpp.s
 
 CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj: CMakeFiles/Chess.dir/flags.make
 CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/PieceFactory.cpp
+CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/PieceFactory.cpp
 CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj -MF CMakeFiles\Chess.dir\src\PieceFactory.cpp.obj.d -o CMakeFiles\Chess.dir\src\PieceFactory.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\PieceFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj -MF CMakeFiles\Chess.dir\src\PieceFactory.cpp.obj.d -o CMakeFiles\Chess.dir\src\PieceFactory.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\PieceFactory.cpp
 
 CMakeFiles/Chess.dir/src/PieceFactory.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/PieceFactory.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\PieceFactory.cpp > CMakeFiles\Chess.dir\src\PieceFactory.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\PieceFactory.cpp > CMakeFiles\Chess.dir\src\PieceFactory.cpp.i
 
 CMakeFiles/Chess.dir/src/PieceFactory.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/PieceFactory.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\PieceFactory.cpp -o CMakeFiles\Chess.dir\src\PieceFactory.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\PieceFactory.cpp -o CMakeFiles\Chess.dir\src\PieceFactory.cpp.s
 
-CMakeFiles/Chess.dir/src/Piece.cpp.obj: CMakeFiles/Chess.dir/flags.make
-CMakeFiles/Chess.dir/src/Piece.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/Piece.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Piece.cpp
-CMakeFiles/Chess.dir/src/Piece.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chess.dir/src/Piece.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Piece.cpp.obj -MF CMakeFiles\Chess.dir\src\Piece.cpp.obj.d -o CMakeFiles\Chess.dir\src\Piece.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Piece.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj: CMakeFiles/Chess.dir/flags.make
+CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
+CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Piece.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj -MF CMakeFiles\Chess.dir\src\pieces_src\Piece.cpp.obj.d -o CMakeFiles\Chess.dir\src\pieces_src\Piece.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Piece.cpp
 
-CMakeFiles/Chess.dir/src/Piece.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/Piece.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Piece.cpp > CMakeFiles\Chess.dir\src\Piece.cpp.i
+CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Piece.cpp > CMakeFiles\Chess.dir\src\pieces_src\Piece.cpp.i
 
-CMakeFiles/Chess.dir/src/Piece.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/Piece.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Piece.cpp -o CMakeFiles\Chess.dir\src\Piece.cpp.s
+CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Piece.cpp -o CMakeFiles\Chess.dir\src\pieces_src\Piece.cpp.s
 
-CMakeFiles/Chess.dir/src/Bishop.cpp.obj: CMakeFiles/Chess.dir/flags.make
-CMakeFiles/Chess.dir/src/Bishop.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/Bishop.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Bishop.cpp
-CMakeFiles/Chess.dir/src/Bishop.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chess.dir/src/Bishop.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Bishop.cpp.obj -MF CMakeFiles\Chess.dir\src\Bishop.cpp.obj.d -o CMakeFiles\Chess.dir\src\Bishop.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Bishop.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj: CMakeFiles/Chess.dir/flags.make
+CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
+CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Bishop.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj -MF CMakeFiles\Chess.dir\src\pieces_src\Bishop.cpp.obj.d -o CMakeFiles\Chess.dir\src\pieces_src\Bishop.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Bishop.cpp
 
-CMakeFiles/Chess.dir/src/Bishop.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/Bishop.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Bishop.cpp > CMakeFiles\Chess.dir\src\Bishop.cpp.i
+CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Bishop.cpp > CMakeFiles\Chess.dir\src\pieces_src\Bishop.cpp.i
 
-CMakeFiles/Chess.dir/src/Bishop.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/Bishop.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Bishop.cpp -o CMakeFiles\Chess.dir\src\Bishop.cpp.s
+CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Bishop.cpp -o CMakeFiles\Chess.dir\src\pieces_src\Bishop.cpp.s
 
-CMakeFiles/Chess.dir/src/Rook.cpp.obj: CMakeFiles/Chess.dir/flags.make
-CMakeFiles/Chess.dir/src/Rook.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/Rook.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Rook.cpp
-CMakeFiles/Chess.dir/src/Rook.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chess.dir/src/Rook.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Rook.cpp.obj -MF CMakeFiles\Chess.dir\src\Rook.cpp.obj.d -o CMakeFiles\Chess.dir\src\Rook.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Rook.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj: CMakeFiles/Chess.dir/flags.make
+CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
+CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Rook.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj -MF CMakeFiles\Chess.dir\src\pieces_src\Rook.cpp.obj.d -o CMakeFiles\Chess.dir\src\pieces_src\Rook.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Rook.cpp
 
-CMakeFiles/Chess.dir/src/Rook.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/Rook.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Rook.cpp > CMakeFiles\Chess.dir\src\Rook.cpp.i
+CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Rook.cpp > CMakeFiles\Chess.dir\src\pieces_src\Rook.cpp.i
 
-CMakeFiles/Chess.dir/src/Rook.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/Rook.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Rook.cpp -o CMakeFiles\Chess.dir\src\Rook.cpp.s
+CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Rook.cpp -o CMakeFiles\Chess.dir\src\pieces_src\Rook.cpp.s
 
-CMakeFiles/Chess.dir/src/Queen.cpp.obj: CMakeFiles/Chess.dir/flags.make
-CMakeFiles/Chess.dir/src/Queen.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/Queen.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Queen.cpp
-CMakeFiles/Chess.dir/src/Queen.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chess.dir/src/Queen.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Queen.cpp.obj -MF CMakeFiles\Chess.dir\src\Queen.cpp.obj.d -o CMakeFiles\Chess.dir\src\Queen.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Queen.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj: CMakeFiles/Chess.dir/flags.make
+CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
+CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Queen.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj -MF CMakeFiles\Chess.dir\src\pieces_src\Queen.cpp.obj.d -o CMakeFiles\Chess.dir\src\pieces_src\Queen.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Queen.cpp
 
-CMakeFiles/Chess.dir/src/Queen.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/Queen.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Queen.cpp > CMakeFiles\Chess.dir\src\Queen.cpp.i
+CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Queen.cpp > CMakeFiles\Chess.dir\src\pieces_src\Queen.cpp.i
 
-CMakeFiles/Chess.dir/src/Queen.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/Queen.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Queen.cpp -o CMakeFiles\Chess.dir\src\Queen.cpp.s
+CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Queen.cpp -o CMakeFiles\Chess.dir\src\pieces_src\Queen.cpp.s
 
-CMakeFiles/Chess.dir/src/King.cpp.obj: CMakeFiles/Chess.dir/flags.make
-CMakeFiles/Chess.dir/src/King.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/King.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/King.cpp
-CMakeFiles/Chess.dir/src/King.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Chess.dir/src/King.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/King.cpp.obj -MF CMakeFiles\Chess.dir\src\King.cpp.obj.d -o CMakeFiles\Chess.dir\src\King.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\King.cpp
+CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj: CMakeFiles/Chess.dir/flags.make
+CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
+CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/King.cpp
+CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj -MF CMakeFiles\Chess.dir\src\pieces_src\King.cpp.obj.d -o CMakeFiles\Chess.dir\src\pieces_src\King.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\King.cpp
 
-CMakeFiles/Chess.dir/src/King.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/King.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\King.cpp > CMakeFiles\Chess.dir\src\King.cpp.i
+CMakeFiles/Chess.dir/src/pieces_src/King.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/pieces_src/King.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\King.cpp > CMakeFiles\Chess.dir\src\pieces_src\King.cpp.i
 
-CMakeFiles/Chess.dir/src/King.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/King.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\King.cpp -o CMakeFiles\Chess.dir\src\King.cpp.s
+CMakeFiles/Chess.dir/src/pieces_src/King.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/pieces_src/King.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\King.cpp -o CMakeFiles\Chess.dir\src\pieces_src\King.cpp.s
 
-CMakeFiles/Chess.dir/src/Knight.cpp.obj: CMakeFiles/Chess.dir/flags.make
-CMakeFiles/Chess.dir/src/Knight.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/Knight.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Knight.cpp
-CMakeFiles/Chess.dir/src/Knight.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chess.dir/src/Knight.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Knight.cpp.obj -MF CMakeFiles\Chess.dir\src\Knight.cpp.obj.d -o CMakeFiles\Chess.dir\src\Knight.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Knight.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj: CMakeFiles/Chess.dir/flags.make
+CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
+CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Knight.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj -MF CMakeFiles\Chess.dir\src\pieces_src\Knight.cpp.obj.d -o CMakeFiles\Chess.dir\src\pieces_src\Knight.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Knight.cpp
 
-CMakeFiles/Chess.dir/src/Knight.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/Knight.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Knight.cpp > CMakeFiles\Chess.dir\src\Knight.cpp.i
+CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Knight.cpp > CMakeFiles\Chess.dir\src\pieces_src\Knight.cpp.i
 
-CMakeFiles/Chess.dir/src/Knight.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/Knight.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Knight.cpp -o CMakeFiles\Chess.dir\src\Knight.cpp.s
+CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Knight.cpp -o CMakeFiles\Chess.dir\src\pieces_src\Knight.cpp.s
 
-CMakeFiles/Chess.dir/src/Pawn.cpp.obj: CMakeFiles/Chess.dir/flags.make
-CMakeFiles/Chess.dir/src/Pawn.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
-CMakeFiles/Chess.dir/src/Pawn.cpp.obj: C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Pawn.cpp
-CMakeFiles/Chess.dir/src/Pawn.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Chess.dir/src/Pawn.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/Pawn.cpp.obj -MF CMakeFiles\Chess.dir\src\Pawn.cpp.obj.d -o CMakeFiles\Chess.dir\src\Pawn.cpp.obj -c C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Pawn.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj: CMakeFiles/Chess.dir/flags.make
+CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj: CMakeFiles/Chess.dir/includes_CXX.rsp
+CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj: C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Pawn.cpp
+CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj: CMakeFiles/Chess.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj -MF CMakeFiles\Chess.dir\src\pieces_src\Pawn.cpp.obj.d -o CMakeFiles\Chess.dir\src\pieces_src\Pawn.cpp.obj -c C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Pawn.cpp
 
-CMakeFiles/Chess.dir/src/Pawn.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/Pawn.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Pawn.cpp > CMakeFiles\Chess.dir\src\Pawn.cpp.i
+CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Pawn.cpp > CMakeFiles\Chess.dir\src\pieces_src\Pawn.cpp.i
 
-CMakeFiles/Chess.dir/src/Pawn.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/Pawn.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Documents\GitHub\task-2-raedkbar\src\Pawn.cpp -o CMakeFiles\Chess.dir\src\Pawn.cpp.s
+CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\brr\Desktop\task-2-raedkbar\src\pieces_src\Pawn.cpp -o CMakeFiles\Chess.dir\src\pieces_src\Pawn.cpp.s
 
 # Object files for target Chess
 Chess_OBJECTS = \
@@ -239,13 +239,13 @@ Chess_OBJECTS = \
 "CMakeFiles/Chess.dir/src/Chess.cpp.obj" \
 "CMakeFiles/Chess.dir/src/Board.cpp.obj" \
 "CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj" \
-"CMakeFiles/Chess.dir/src/Piece.cpp.obj" \
-"CMakeFiles/Chess.dir/src/Bishop.cpp.obj" \
-"CMakeFiles/Chess.dir/src/Rook.cpp.obj" \
-"CMakeFiles/Chess.dir/src/Queen.cpp.obj" \
-"CMakeFiles/Chess.dir/src/King.cpp.obj" \
-"CMakeFiles/Chess.dir/src/Knight.cpp.obj" \
-"CMakeFiles/Chess.dir/src/Pawn.cpp.obj"
+"CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj" \
+"CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj" \
+"CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj" \
+"CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj" \
+"CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj" \
+"CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj" \
+"CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj"
 
 # External object files for target Chess
 Chess_EXTERNAL_OBJECTS =
@@ -254,18 +254,18 @@ Chess.exe: CMakeFiles/Chess.dir/src/main.cpp.obj
 Chess.exe: CMakeFiles/Chess.dir/src/Chess.cpp.obj
 Chess.exe: CMakeFiles/Chess.dir/src/Board.cpp.obj
 Chess.exe: CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj
-Chess.exe: CMakeFiles/Chess.dir/src/Piece.cpp.obj
-Chess.exe: CMakeFiles/Chess.dir/src/Bishop.cpp.obj
-Chess.exe: CMakeFiles/Chess.dir/src/Rook.cpp.obj
-Chess.exe: CMakeFiles/Chess.dir/src/Queen.cpp.obj
-Chess.exe: CMakeFiles/Chess.dir/src/King.cpp.obj
-Chess.exe: CMakeFiles/Chess.dir/src/Knight.cpp.obj
-Chess.exe: CMakeFiles/Chess.dir/src/Pawn.cpp.obj
+Chess.exe: CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj
+Chess.exe: CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj
+Chess.exe: CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj
+Chess.exe: CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj
+Chess.exe: CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj
+Chess.exe: CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj
+Chess.exe: CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj
 Chess.exe: CMakeFiles/Chess.dir/build.make
 Chess.exe: CMakeFiles/Chess.dir/linkLibs.rsp
 Chess.exe: CMakeFiles/Chess.dir/objects1
 Chess.exe: CMakeFiles/Chess.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable Chess.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable Chess.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Chess.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -277,6 +277,6 @@ CMakeFiles/Chess.dir/clean:
 .PHONY : CMakeFiles/Chess.dir/clean
 
 CMakeFiles/Chess.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\brr\Documents\GitHub\task-2-raedkbar C:\Users\brr\Documents\GitHub\task-2-raedkbar C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug C:\Users\brr\Documents\GitHub\task-2-raedkbar\cmake-build-debug\CMakeFiles\Chess.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\brr\Desktop\task-2-raedkbar C:\Users\brr\Desktop\task-2-raedkbar C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug C:\Users\brr\Desktop\task-2-raedkbar\cmake-build-debug\CMakeFiles\Chess.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Chess.dir/depend
 

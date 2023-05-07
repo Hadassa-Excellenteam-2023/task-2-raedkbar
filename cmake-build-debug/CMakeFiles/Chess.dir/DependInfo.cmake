@@ -8,17 +8,17 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Bishop.cpp" "CMakeFiles/Chess.dir/src/Bishop.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Bishop.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Board.cpp" "CMakeFiles/Chess.dir/src/Board.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Board.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Chess.cpp" "CMakeFiles/Chess.dir/src/Chess.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Chess.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/King.cpp" "CMakeFiles/Chess.dir/src/King.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/King.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Knight.cpp" "CMakeFiles/Chess.dir/src/Knight.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Knight.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Pawn.cpp" "CMakeFiles/Chess.dir/src/Pawn.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Pawn.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Piece.cpp" "CMakeFiles/Chess.dir/src/Piece.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Piece.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/PieceFactory.cpp" "CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Queen.cpp" "CMakeFiles/Chess.dir/src/Queen.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Queen.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/Rook.cpp" "CMakeFiles/Chess.dir/src/Rook.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Rook.cpp.obj.d"
-  "C:/Users/brr/Documents/GitHub/task-2-raedkbar/src/main.cpp" "CMakeFiles/Chess.dir/src/main.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/main.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/Board.cpp" "CMakeFiles/Chess.dir/src/Board.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Board.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/Chess.cpp" "CMakeFiles/Chess.dir/src/Chess.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/Chess.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/PieceFactory.cpp" "CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/PieceFactory.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/main.cpp" "CMakeFiles/Chess.dir/src/main.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/main.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Bishop.cpp" "CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/pieces_src/Bishop.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/King.cpp" "CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/pieces_src/King.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Knight.cpp" "CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/pieces_src/Knight.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Pawn.cpp" "CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/pieces_src/Pawn.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Piece.cpp" "CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/pieces_src/Piece.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Queen.cpp" "CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/pieces_src/Queen.cpp.obj.d"
+  "C:/Users/brr/Desktop/task-2-raedkbar/src/pieces_src/Rook.cpp" "CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj" "gcc" "CMakeFiles/Chess.dir/src/pieces_src/Rook.cpp.obj.d"
   )
 
 # Targets to which this target links.

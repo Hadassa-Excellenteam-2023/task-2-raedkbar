@@ -1,20 +1,20 @@
 // Chess 
 #include "Chess.h"
-#include "Board.h"
+#include "GameState.h"
 
 int main()
 {
 	string board = "RNBQKBNRPPPPPPPP################################pppppppprnbqkbnr"; 
 //	string board = "##########K###############################R#############r#r#####";
 	Chess a(board);
-	auto& b = Board::getInstance();
-	b.fillBoard(board);
-	int codeResponse = 0;
+	auto& g = GameState::getInstance();
+	g.initializeBoard("RNBQKBNRPPPPPPPP################################pppppppprnbqkbnr");
+	int code = 0;
 	string res = a.getInput();
     while (res != "exit")
     {
-        codeResponse = b.move(res);
-        a.setCodeResponse(codeResponse);
+        code = g.handleTurn(res);
+        a.setCodeResponse(code);
         res = a.getInput();
     }
 

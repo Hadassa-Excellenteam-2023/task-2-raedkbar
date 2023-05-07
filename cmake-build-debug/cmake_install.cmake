@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/brr/Documents/GitHub/task-2-raedkbar
+# Install script for directory: C:/Users/brr/Desktop/task-2-raedkbar
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,12 +39,22 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/include/cmake_install.cmake")
+  include("C:/Users/brr/Desktop/task-2-raedkbar/cmake-build-debug/include/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/src/cmake_install.cmake")
+  include("C:/Users/brr/Desktop/task-2-raedkbar/cmake-build-debug/include/pieces_headers/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/brr/Desktop/task-2-raedkbar/cmake-build-debug/src/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/brr/Desktop/task-2-raedkbar/cmake-build-debug/src/pieces_src/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -55,5 +65,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/brr/Documents/GitHub/task-2-raedkbar/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/brr/Desktop/task-2-raedkbar/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
